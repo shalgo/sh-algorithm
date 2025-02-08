@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td align="center"><b><sub>week 1</sub></b><br/><sub>25.02.09. ~ 25.02.15.</sub></td>
-    <td align="center"><a href="문제 링크"><sub><b>문제명</b></sub></a><br/><sub>BOJ</sub><br/></td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/10472"><sub><b>십자뒤집기</b></sub></a><br/><sub>BOJ</sub><br/></td>
     <!-- 이강산 --> <td align="center"><a href="풀이 링크">X</td>
     <!-- 이름2 --> <td align="center"><a href="풀이 링크">X</td>
     <!-- 이름3 --> <td align="center"><a href="풀이 링크">X</td>
