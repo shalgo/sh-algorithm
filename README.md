@@ -47,7 +47,7 @@
     <td align="center"><b><sub>week 1</sub></b><br/><sub>25.02.09. ~ 25.02.15.</sub></td>
     <td align="center"><a href="https://www.acmicpc.net/problem/10472"><sub><b>십자뒤집기</b></sub></a><br/><sub>BOJ</sub><br/></td>
     <!-- 이강산 --> <td align="center"><a href="풀이 링크">X</td>
-    <!-- 김재윤 --> <td align="center"><a href="풀이 링크">X</td>
+    <!-- 김재윤 --> <td align="center"><a href="http://boj.kr/55228286524e4f33a074610de6e27a87">O</td>
     <!-- 최우진 --> <td align="center"><a href="풀이 링크">X</td>
     <!-- 유지형 --> <td align="center"><a href="풀이 링크">X</td>
   </tr>
