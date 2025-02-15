@@ -50,6 +50,15 @@
     <!-- 유지형 --> <td align="center">❌</td>
     <!-- 김현철 --> <td align="center">❌</td>
   </tr>
+  <tr>
+    <td align="center"><b><sub>week 2</sub></b><br/><sub>25.02.16. ~ 25.02.22.</sub></td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/25603"><sub><b>짱해커 이동식</b></sub></a><br/><sub>BOJ</sub><br/></td>
+    <!-- 이강산 --> <td align="center">❌</td>
+    <!-- 김재윤 --> <td align="center">❌</td>
+    <!-- 최우진 --> <td align="center">❌</td>
+    <!-- 유지형 --> <td align="center">❌</td>
+    <!-- 김현철 --> <td align="center">❌</td>
+  </tr>    
 </table>
 <br/><br/>
 
