@@ -9,7 +9,7 @@
 <br/><br/><br/>
 
 # 진행 방식
-매주 문제를 풀고 풀이 링크를 추가한다. <br/><br/>
+매주 문제를 풀고 ReadMe를 수정하여 풀이 링크를 추가한다. <br/><br/>
 풀이 추가 방법 <br/>
 **BOJ** : 정답 코드 화면에서 **공유** 버튼 눌러 링크 생성 <br/>
 **Programmers** : <br/>
@@ -49,7 +49,7 @@
   <tr>
     <td align="center"><b><sub>week 1</sub></b><br/><sub>25.02.09. ~ 25.02.15.</sub></td>
     <td align="center"><a href="https://www.acmicpc.net/problem/10472"><sub><b>십자뒤집기</b></sub></a><br/><sub>BOJ</sub><br/></td>
-    <!-- 이강산 --> <td align="center"><a href="풀이 링크">X</td>
+    <!-- 이강산 --> <td align="center"><a href="http://boj.kr/b30ace35882643faa2e76208af573010">O</td>
     <!-- 김재윤 --> <td align="center"><a href="http://boj.kr/55228286524e4f33a074610de6e27a87">O</td>
     <!-- 최우진 --> <td align="center"><a href="풀이 링크">X</td>
     <!-- 유지형 --> <td align="center"><a href="풀이 링크">X</td>
