@@ -23,8 +23,10 @@
     <td align="center"><a href="https://github.com/Joajy"><img src="https://avatars.githubusercontent.com/u/86274253?v=4" width="80px;"/><br/><sub><b>kim-jae-yun</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/woojinchoi1023"><img src="https://avatars.githubusercontent.com/u/113707882?v=4" width="80px;"/><br/><sub><b>choi-woo-jin</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/justintime1118"><img src="https://avatars.githubusercontent.com/u/80761595?v=4" width="80px;"/><br/><sub><b>yu-ji-hyeong</b></sub></a><br/></td>
+    <td align="center"><a href="https://github.com/freetear5"><img src="https://avatars.githubusercontent.com/u/109717088?v=4" width="80px;"/><br/><sub><b>kim-hyeon-cheol</b></sub></a><br/></td>
   </tr>
   <tr>
+    <td align="center"><sub>JAVA</sub></td>
     <td align="center"><sub>JAVA</sub></td>
     <td align="center"><sub>풀이언어</sub></td>
     <td align="center"><sub>풀이언어</sub></td>
@@ -42,6 +44,7 @@
     <td align="center"><a href="https://github.com/Joajy"><img src="https://avatars.githubusercontent.com/u/86274253?v=4" width="20px;"/></a></td>
     <td align="center"><a href="https://github.com/woojinchoi1023"><img src="https://avatars.githubusercontent.com/u/113707882?v=4" width="20px;"/></a></td>
     <td align="center"><a href="https://github.com/justintime1118"><img src="https://avatars.githubusercontent.com/u/80761595?v=4" width="20px;"/></a></td>
+    <td align="center"><a href="https://github.com/justintime1118"><img src="https://avatars.githubusercontent.com/u/109717088?v=4" width="20px;"/></a></td>
   </tr>
   <tr>
     <td align="center"><b><sub>week 1</sub></b><br/><sub>25.02.09. ~ 25.02.15.</sub></td>
@@ -50,6 +53,7 @@
     <!-- 김재윤 --> <td align="center"><a href="http://boj.kr/55228286524e4f33a074610de6e27a87">O</td>
     <!-- 최우진 --> <td align="center"><a href="풀이 링크">X</td>
     <!-- 유지형 --> <td align="center"><a href="풀이 링크">X</td>
+    <!-- 김현철 --> <td align="center"><a href="풀이 링크">X</td>
   </tr>
 </table>
 <br/><br/>
