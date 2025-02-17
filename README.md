@@ -7,8 +7,8 @@
 매주 문제를 풀고 ReadMe를 수정하여 풀이 링크를 추가한다. <br/><br/>
 풀이 추가 방법 <br/>
 **BOJ** : 정답 코드 화면에서 **공유** 버튼 눌러 링크 생성 <br/>
-**Programmers** : <br/>
-**LeetCode** : <br/>
+**Programmers** : <a href="https://gist.github.com/">gist</a> 에서 코드 복붙 후 **create sercret gist** 버튼 눌러 링크 생성<br/>
+**LeetCode** : <a href="https://gist.github.com/">gist</a> 에서 코드 복붙 후 **create sercret gist** 버튼 눌러 링크 생성<br/>
 <br/><br/>
 
 # 멤버
