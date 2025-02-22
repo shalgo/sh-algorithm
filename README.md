@@ -63,6 +63,16 @@
     <!-- 김현철 --> <td align="center">❌</td>
     <!-- 김다인 --> <td align="center">❌</td>
   </tr>    
+  <tr>
+    <td align="center"><b><sub>week 2</sub></b><br/><sub>25.02.23. ~ 25.03.01.</sub></td>
+    <td align="center"><a href="https://www.acmicpc.net/problem/25603"><sub><b>[PCCP 기출문제] 2번 / 석유 시추</b></sub></a><br/><sub>programmers</sub><br/></td>
+    <!-- 이강산 --> <td align="center">❌</td>
+    <!-- 김재윤 --> <td align="center">❌</td>
+    <!-- 최우진 --> <td align="center">❌</td>
+    <!-- 유지형 --> <td align="center">❌</td>
+    <!-- 김현철 --> <td align="center">❌</td>
+    <!-- 김다인 --> <td align="center">❌</td>
+  </tr>      
 </table>
 <br/><br/>
 
