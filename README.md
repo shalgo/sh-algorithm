@@ -67,7 +67,7 @@
     <td align="center"><b><sub>week 2</sub></b><br/><sub>25.02.23. ~ 25.03.01.</sub></td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/250136"><sub><b>[PCCP 기출문제] 2번 / 석유 시추</b></sub></a><br/><sub>programmers</sub><br/></td>
     <!-- 이강산 --> <td align="center">❌</td>
-    <!-- 김재윤 --> <td align="center">❌</td>
+    <!-- 김재윤 --> <td align="center"><a href="https://gist.github.com/Joajy/4e472bb6ededfd67cda8d012f206cb9a">✅</td>
     <!-- 최우진 --> <td align="center">❌</td>
     <!-- 유지형 --> <td align="center">❌</td>
     <!-- 김현철 --> <td align="center">❌</td>
