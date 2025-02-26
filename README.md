@@ -16,7 +16,7 @@
     <td align="center"><a href="https://github.com/clintkslee"><img src="https://avatars.githubusercontent.com/u/79732636?v=4" width="80px;"/><br/><sub><b>lee-kang-san</b></sub></a></td>
     <td align="center"><a href="https://github.com/Joajy"><img src="https://avatars.githubusercontent.com/u/86274253?v=4" width="80px;"/><br/><sub><b>kim-jae-yun</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/woojinchoi1023"><img src="https://avatars.githubusercontent.com/u/113707882?v=4" width="80px;"/><br/><sub><b>choi-woo-jin</b></sub></a><br/></td>
-    <td align="center"><a href="https://github.com/justintime1118"><img src="https://avatars.githubusercontent.com/u/80761595?v=4" width="80px;"/><br/><sub><b>yu-ji-hyeong</b></sub></a><br/></td>
+    <td align="center"><a href="https://github.com/justintime1118"><img src="https://avatars.githubusercontent.com/u/80761595?v=4" width="80px;"/><br/><sub><b>yoo-ji-hyeong</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/freetear5"><img src="https://avatars.githubusercontent.com/u/109717088?v=4" width="80px;"/><br/><sub><b>kim-hyeon-cheol</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/freetear5"><img src="https://avatars.githubusercontent.com/u/69078708?v=4" width="80px;"/><br/><sub><b>kim-dyne</b></sub></a><br/></td>
   </tr>
@@ -24,7 +24,7 @@
     <td align="center"><sub>JAVA</sub></td>
     <td align="center"><sub>JAVA, C++</sub></td>
     <td align="center"><sub>풀이언어</sub></td>
-    <td align="center"><sub>풀이언어</sub></td>
+    <td align="center"><sub>JAVA</sub></td>
     <td align="center"><sub>풀이언어</sub></td>
     <td align="center"><sub>풀이언어</sub></td>
   </tr>
