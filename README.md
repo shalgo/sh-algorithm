@@ -74,7 +74,7 @@
     <!-- 성효경 --> <td align="center">❌</td>  
   </tr>    
   <tr>
-    <td align="center"><b><sub>week 2</sub></b><br/><sub>25.02.23. ~ 25.03.01.</sub></td>
+    <td align="center"><b><sub>week 3</sub></b><br/><sub>25.02.23. ~ 25.03.01.</sub></td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/250136"><sub><b>[PCCP 기출문제] 2번 / 석유 시추</b></sub></a><br/><sub>programmers</sub><br/></td>
     <!-- 이강산 --> <td align="center"><a href="https://gist.github.com/clintkslee/98123a33ebef20ab723060a6d79837ed">✅</td>
     <!-- 김재윤 --> <td align="center"><a href="https://gist.github.com/Joajy/4e472bb6ededfd67cda8d012f206cb9a">✅</td>
@@ -84,10 +84,22 @@
     <!-- 김다인 --> <td align="center">❌</td>
     <!-- 정재건 --> <td align="center">❌</td>
     <!-- 성효경 --> <td align="center">❌</td>   
+  </tr>
+  <tr>
+    <td align="center"><b><sub>week 4</sub></b><br/><sub>25.03.02. ~ 25.03.08.</sub></td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/388353"><sub><b>지게차와 크레인</b></sub></a><br/><sub>programmers</sub><br/></td>
+    <!-- 이강산 --> <td align="center">❌</td>
+    <!-- 김재윤 --> <td align="center">❌</td>
+    <!-- 최우진 --> <td align="center">❌</td>
+    <!-- 유지형 --> <td align="center">❌</td>
+    <!-- 김현철 --> <td align="center">❌</td>
+    <!-- 김다인 --> <td align="center">❌</td>
+    <!-- 정재건 --> <td align="center">❌</td>
+    <!-- 성효경 --> <td align="center">❌</td>   
   </tr>      
 </table>
 <br/><br/>
-https://gist.github.com/clintkslee/98123a33ebef20ab723060a6d79837ed
+
 # 플랫폼
 <a href="https://www.acmicpc.net/"><b>BOJ</b></a>, 
 <a href="https://programmers.co.kr/"><b>Programmers</b></a>, 
