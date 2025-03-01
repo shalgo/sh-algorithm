@@ -19,12 +19,16 @@
     <td align="center"><a href="https://github.com/justintime1118"><img src="https://avatars.githubusercontent.com/u/80761595?v=4" width="80px;"/><br/><sub><b>yoo-ji-hyeong</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/freetear5"><img src="https://avatars.githubusercontent.com/u/109717088?v=4" width="80px;"/><br/><sub><b>kim-hyeon-cheol</b></sub></a><br/></td>
     <td align="center"><a href="https://github.com/freetear5"><img src="https://avatars.githubusercontent.com/u/69078708?v=4" width="80px;"/><br/><sub><b>kim-dyne</b></sub></a><br/></td>
+    <td align="center"><a href="https://github.com/jungjaegun"><img src="https://avatars.githubusercontent.com/u/96280969?v=4" width="80px;"/><br/><sub><b>jung-jae-gun</b></sub></a><br/></td>
+    <td align="center"><a href="https://github.com/hyokyung918"><img src="https://avatars.githubusercontent.com/u/82697524?v=4" width="80px;"/><br/><sub><b>seong-hyo-kyung</b></sub></a><br/></td>
   </tr>
   <tr>
     <td align="center"><sub>JAVA</sub></td>
     <td align="center"><sub>JAVA, C++</sub></td>
     <td align="center"><sub>풀이언어</sub></td>
     <td align="center"><sub>JAVA</sub></td>
+    <td align="center"><sub>풀이언어</sub></td>
+    <td align="center"><sub>풀이언어</sub></td>
     <td align="center"><sub>풀이언어</sub></td>
     <td align="center"><sub>풀이언어</sub></td>
   </tr>
@@ -42,6 +46,8 @@
     <td align="center"><a href="https://github.com/justintime1118"><img src="https://avatars.githubusercontent.com/u/80761595?v=4" width="20px;"/></a></td>
     <td align="center"><a href="https://github.com/justintime1118"><img src="https://avatars.githubusercontent.com/u/109717088?v=4" width="20px;"/></a></td>
     <td align="center"><a href="https://github.com/dynene"><img src="https://avatars.githubusercontent.com/u/69078708?v=4" width="20px;"/></a></td>
+    <td align="center"><a href="https://github.com/jungjaegun"><img src="https://avatars.githubusercontent.com/u/96280969?v=4" width="20px;"/></a></td>
+    <td align="center"><a href="https://github.com/hyokyung918"><img src="https://avatars.githubusercontent.com/u/82697524?v=4" width="20px;"/></a></td>
   </tr>
   <tr>
     <td align="center"><b><sub>week 1</sub></b><br/><sub>25.02.09. ~ 25.02.15.</sub></td>
@@ -52,6 +58,8 @@
     <!-- 유지형 --> <td align="center">❌</td>
     <!-- 김현철 --> <td align="center">❌</td>
     <!-- 김다인 --> <td align="center">❌</td>  
+    <!-- 정재건 --> <td align="center">❌</td>
+    <!-- 성효경 --> <td align="center">❌</td>  
   </tr>
   <tr>
     <td align="center"><b><sub>week 2</sub></b><br/><sub>25.02.16. ~ 25.02.22.</sub></td>
@@ -62,6 +70,8 @@
     <!-- 유지형 --> <td align="center">❌</td>
     <!-- 김현철 --> <td align="center">❌</td>
     <!-- 김다인 --> <td align="center">❌</td>
+    <!-- 정재건 --> <td align="center">❌</td>
+    <!-- 성효경 --> <td align="center">❌</td>  
   </tr>    
   <tr>
     <td align="center"><b><sub>week 2</sub></b><br/><sub>25.02.23. ~ 25.03.01.</sub></td>
@@ -72,6 +82,8 @@
     <!-- 유지형 --> <td align="center">❌</td>
     <!-- 김현철 --> <td align="center">❌</td>
     <!-- 김다인 --> <td align="center">❌</td>
+    <!-- 정재건 --> <td align="center">❌</td>
+    <!-- 성효경 --> <td align="center">❌</td>   
   </tr>      
 </table>
 <br/><br/>
