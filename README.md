@@ -89,7 +89,7 @@
     <td align="center"><b><sub>week 4</sub></b><br/><sub>25.03.02. ~ 25.03.08.</sub></td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/388353"><sub><b>지게차와 크레인</b></sub></a><br/><sub>programmers</sub><br/></td>
     <!-- 이강산 --> <td align="center">❌</td>
-    <!-- 김재윤 --> <td align="center">❌</td>
+    <!-- 김재윤 --> <td align="center"><a href="https://gist.github.com/Joajy/35b10497fd4c5ebc33b2b3f9dbcd386c">✅</td>
     <!-- 최우진 --> <td align="center">❌</td>
     <!-- 유지형 --> <td align="center">❌</td>
     <!-- 김현철 --> <td align="center">❌</td>
