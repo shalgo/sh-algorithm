@@ -17,7 +17,6 @@
     <!-- 김재윤 --> <td align="center"><a href="https://github.com/Joajy"><img src="https://avatars.githubusercontent.com/u/86274253?v=4" width="80px;"/><br/><sub><b>kim-jae-yun</b></sub></a><br/></td>
     <!-- 최우진 --> <td align="center"><a href="https://github.com/woojinchoi1023"><img src="https://avatars.githubusercontent.com/u/113707882?v=4" width="80px;"/><br/><sub><b>choi-woo-jin</b></sub></a><br/></td>
     <!-- 유지형 --> <td align="center"><a href="https://github.com/justintime1118"><img src="https://avatars.githubusercontent.com/u/80761595?v=4" width="80px;"/><br/><sub><b>yoo-ji-hyeong</b></sub></a><br/></td>
-    <!-- 김현철 <td align="center"><a href="https://github.com/freetear5"><img src="https://avatars.githubusercontent.com/u/109717088?v=4" width="80px;"/><br/><sub><b>kim-hyeon-cheol</b></sub></a><br/></td> --> 
     <!-- 김다인 --> <td align="center"><a href="https://github.com/dynene"><img src="https://avatars.githubusercontent.com/u/69078708?v=4" width="80px;"/><br/><sub><b>kim-dyne</b></sub></a><br/></td>
     <!-- 정재건 --> <td align="center"><a href="https://github.com/jungjaegun"><img src="https://avatars.githubusercontent.com/u/96280969?v=4" width="80px;"/><br/><sub><b>jung-jae-gun</b></sub></a><br/></td>
     <!-- 성효경 --> <td align="center"><a href="https://github.com/hyokyung918"><img src="https://avatars.githubusercontent.com/u/82697524?v=4" width="80px;"/><br/><sub><b>seong-hyo-kyung</b></sub></a><br/></td>
@@ -27,7 +26,6 @@
     <!-- 김재윤 --> <td align="center"><sub>JAVA, C++</sub></td>
     <!-- 최우진 --> <td align="center"><sub>풀이언어</sub></td>
     <!-- 유지형 --> <td align="center"><sub>JAVA</sub></td>
-    <!-- 김현철 <td align="center"><sub>풀이언어</sub></td> --> 
     <!-- 김다인 --> <td align="center"><sub>풀이언어</sub></td>
     <!-- 정재건 --> <td align="center"><sub>풀이언어</sub></td>
     <!-- 성효경 --> <td align="center"><sub>풀이언어</sub></td>
@@ -44,7 +42,6 @@
     <!-- 김재윤 --> <td align="center"><a href="https://github.com/Joajy"><img src="https://avatars.githubusercontent.com/u/86274253?v=4" width="20px;"/></a></td>
     <!-- 최우진 --> <td align="center"><a href="https://github.com/woojinchoi1023"><img src="https://avatars.githubusercontent.com/u/113707882?v=4" width="20px;"/></a></td>
     <!-- 유지형 --> <td align="center"><a href="https://github.com/justintime1118"><img src="https://avatars.githubusercontent.com/u/80761595?v=4" width="20px;"/></a></td>
-    <!-- 김현철 <td align="center"><a href="https://github.com/justintime1118"><img src="https://avatars.githubusercontent.com/u/109717088?v=4" width="20px;"/></a></td> --> 
     <!-- 김다인 --> <td align="center"><a href="https://github.com/dynene"><img src="https://avatars.githubusercontent.com/u/69078708?v=4" width="20px;"/></a></td>
     <!-- 정재건 --> <td align="center"><a href="https://github.com/jungjaegun"><img src="https://avatars.githubusercontent.com/u/96280969?v=4" width="20px;"/></a></td>
     <!-- 성효경 --> <td align="center"><a href="https://github.com/hyokyung918"><img src="https://avatars.githubusercontent.com/u/82697524?v=4" width="20px;"/></a></td>
@@ -56,7 +53,6 @@
     <!-- 김재윤 --> <td align="center"><a href="http://boj.kr/55228286524e4f33a074610de6e27a87">✅</td>
     <!-- 최우진 --> <td align="center">❌</td>
     <!-- 유지형 --> <td align="center">❌</td>
-    <!-- 김현철 <td align="center">❌</td> --> 
     <!-- 김다인 --> <td align="center">❌</td>  
     <!-- 정재건 --> <td align="center">❌</td>
     <!-- 성효경 --> <td align="center">❌</td>  
@@ -68,7 +64,6 @@
     <!-- 김재윤 --> <td align="center"><a href="http://boj.kr/a7914c557897449da61fc76ef00b7c9a">✅<a href="http://boj.kr/88f931e3f6fd4ea3953bde1cbc41f344">✅</td>
     <!-- 최우진 --> <td align="center">❌</td>
     <!-- 유지형 --> <td align="center">❌</td>
-    <!-- 김현철 <td align="center">❌</td> --> 
     <!-- 김다인 --> <td align="center">❌</td>
     <!-- 정재건 --> <td align="center">❌</td>
     <!-- 성효경 --> <td align="center">❌</td>  
@@ -80,7 +75,6 @@
     <!-- 김재윤 --> <td align="center"><a href="https://gist.github.com/Joajy/4e472bb6ededfd67cda8d012f206cb9a">✅</td>
     <!-- 최우진 --> <td align="center">❌</td>
     <!-- 유지형 --> <td align="center">❌</td>
-    <!-- 김현철 <td align="center">❌</td> --> 
     <!-- 김다인 --> <td align="center">❌</td>
     <!-- 정재건 --> <td align="center">❌</td>
     <!-- 성효경 --> <td align="center">❌</td>   
@@ -92,7 +86,6 @@
     <!-- 김재윤 --> <td align="center"><a href="https://gist.github.com/Joajy/35b10497fd4c5ebc33b2b3f9dbcd386c">✅</td>
     <!-- 최우진 --> <td align="center">❌</td>
     <!-- 유지형 --> <td align="center">❌</td>
-    <!-- 김현철 <td align="center">❌</td> --> 
     <!-- 김다인 --> <td align="center">❌</td>
     <!-- 정재건 --> <td align="center">❌</td>
     <!-- 성효경 --> <td align="center">❌</td>   
@@ -104,7 +97,6 @@
     <!-- 김재윤 --> <td align="center">❌</td>
     <!-- 최우진 --> <td align="center">❌</td>
     <!-- 유지형 --> <td align="center">❌</td>
-    <!-- 김현철 <td align="center">❌</td> --> 
     <!-- 김다인 --> <td align="center">❌</td>
     <!-- 정재건 --> <td align="center">❌</td>
     <!-- 성효경 --> <td align="center">❌</td>   
