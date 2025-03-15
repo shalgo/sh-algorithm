@@ -101,6 +101,18 @@
     <!-- 정재건 --> <td align="center">❌</td>
     <!-- 성효경 --> <td align="center">❌</td>   
   </tr>    
+  <tr>
+    <td align="center"><b><sub>week 6</sub></b><br/><sub>25.03.16. ~ 25.03.22.</sub></td>
+    <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/214289"><sub><b>에어컨</b></sub></a><br/><sub>programmers</sub><br/></td>
+    <!-- 이강산 --> <td align="center">❌</td>
+    <!-- 김재윤 --> <td align="center">❌</td>
+    <!-- 최우진 --> <td align="center">❌</td>
+    <!-- 유지형 --> <td align="center">❌</td>
+    <!-- 김다인 --> <td align="center">❌</td>
+    <!-- 정재건 --> <td align="center">❌</td>
+    <!-- 성효경 --> <td align="center">❌</td>   
+  </tr>    
+      
 </table>
 <br/><br/>
 
