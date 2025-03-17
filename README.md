@@ -94,7 +94,7 @@
     <td align="center"><b><sub>week 5</sub></b><br/><sub>25.03.09. ~ 25.03.15.</sub></td>
     <td align="center"><a href="https://school.programmers.co.kr/learn/courses/30/lessons/389480"><sub><b>완전범죄</b></sub></a><br/><sub>programmers</sub><br/></td>
     <!-- 이강산 --> <td align="center"><a href="https://gist.github.com/clintkslee/dfc095f9298796cc28cd1e7eac2e5c59">✅</td>
-    <!-- 김재윤 --> <td align="center">❌</td>
+    <!-- 김재윤 --> <td align="center"><a href="https://gist.github.com/Joajy/96c264aa07e56f1c099f266ae270fdbd">✅</td>
     <!-- 최우진 --> <td align="center">❌</td>
     <!-- 유지형 --> <td align="center">❌</td>
     <!-- 김다인 --> <td align="center">❌</td>
